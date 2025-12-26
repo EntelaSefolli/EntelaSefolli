@@ -10,7 +10,7 @@ I’m motivated by building things that work, solving real problems, and learnin
 This portfolio reflects who I am now — the skills I’ve developed, the projects I’ve completed, and the direction I’m moving toward in the digital ecosystem.
 
 
-### 📌 Project Management Experience & Skills
+### Project Management Experience & Skills
 
 I apply structured PM practices to support tech project execution, focusing on clarity, collaboration and delivery.  
 My approach blends planning and coordination with technical understanding, enabling smoother handoffs and realistic product execution.
@@ -24,7 +24,7 @@ My approach blends planning and coordination with technical understanding, enabl
 - coordinating cross-functional collaboration
 
 
-## 🛠 Programming Languages & Tech Stack
+### Programming Languages & Tech Stack
 
 **Languages:**  
 - Java · JavaScript
@@ -43,15 +43,12 @@ My approach blends planning and coordination with technical understanding, enabl
 
 ---
 
-## Current Focus
+### Current Focus
 
 - strengthening backend development & system design  
 - improving project delivery skills in tech environments  
 - building practical projects that connect business needs with technology  
 - exploring digital platforms, data and consumer behavior
-
----
-
 
 ---
 
