@@ -1,10 +1,10 @@
 ### 👋 I’m Entela
 
 I’m building my professional path at the intersection of **Information Systems, Project Management and software development**, combining problem-solving, structure and continuous learning to create meaningful digital solutions.  
-I focus on understanding how technology shapes business processes and how digital products can improve efficiency, experience and decision-making — especially in service and platform-based environments.
+I focus on understanding how technology shapes business processes and how digital products can improve efficiency, experience and decision-making especially in service and platform-based environments.
 
 With academic work in Information Systems and completed professional courses in Project Management, I’m strengthening both my technical foundation and my ability to plan, coordinate and deliver tech projects.  
-My goal is to grow as a **tech-driven project manager & system designer** — someone who bridges teams, transforms needs into requirements, and guides products from concept to implementation while staying close to the technical logic of systems.
+My goal is to grow as a **tech-driven project manager & system designer**  someone who bridges teams, transforms needs into requirements, and guides products from concept to implementation while staying close to the technical logic of systems.
 
 I’m motivated by building things that work, solving real problems, and learning through practice.  
 This portfolio reflects who I am now — the skills I’ve developed, the projects I’ve completed, and the direction I’m moving toward in the digital ecosystem.
