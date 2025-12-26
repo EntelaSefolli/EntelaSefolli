@@ -1,4 +1,4 @@
-# 👋 I’m Entela
+### 👋 I’m Entela
 
 I’m building my professional path at the intersection of **Information Systems, Project Management and software development**, combining problem-solving, structure and continuous learning to create meaningful digital solutions.  
 I focus on understanding how technology shapes business processes and how digital products can improve efficiency, experience and decision-making — especially in service and platform-based environments.
@@ -10,7 +10,7 @@ I’m motivated by building things that work, solving real problems, and learnin
 This portfolio reflects who I am now — the skills I’ve developed, the projects I’ve completed, and the direction I’m moving toward in the digital ecosystem.
 
 
-## 📌 Project Management Experience & Skills
+### 📌 Project Management Experience & Skills
 
 I apply structured PM practices to support tech project execution, focusing on clarity, collaboration and delivery.  
 My approach blends planning and coordination with technical understanding, enabling smoother handoffs and realistic product execution.
