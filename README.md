@@ -7,7 +7,7 @@ With academic work in Information Systems and completed professional courses in 
 My goal is to grow as a **tech-driven project manager & system designer**  someone who bridges teams, transforms needs into requirements, and guides products from concept to implementation while staying close to the technical logic of systems.
 
 I’m motivated by building things that work, solving real problems, and learning through practice.  
-This portfolio reflects who I am now — the skills I’ve developed, the projects I’ve completed, and the direction I’m moving toward in the digital ecosystem.
+This portfolio reflects who I am now the skills I’ve developed, the projects I’ve completed, and the direction I’m moving toward in the digital ecosystem.
 
 
 ### Project Management Experience & Skills
